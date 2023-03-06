@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonelYonetimOtomasyonu", "PersonelYonetimOtomasyonu\PersonelYonetimOtomasyonu.csproj", "{76D338B8-FBC4-4122-9183-6AEF0A04481C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76D338B8-FBC4-4122-9183-6AEF0A04481C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D338B8-FBC4-4122-9183-6AEF0A04481C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D338B8-FBC4-4122-9183-6AEF0A04481C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D338B8-FBC4-4122-9183-6AEF0A04481C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76B19F6F-0123-4090-BAC0-0BA2DC1013BE}
+	EndGlobalSection
+EndGlobal
